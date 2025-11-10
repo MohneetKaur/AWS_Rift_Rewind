@@ -27,14 +27,14 @@ Go to: https://vercel.com
 In the "Environment Variables" section, add these:
 
 ```
-AWS_ACCESS_KEY_ID = AKIAQNVWKKKHOQA4XK2P
-AWS_SECRET_ACCESS_KEY = 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
-AWS_REGION = us-east-1
-S3_DATASET_BUCKET = rift-rewind-dataset
-S3_SUMMARIES_BUCKET = rift-rewind-summaries
-BEDROCK_MODEL_ID = us.anthropic.claude-3-5-sonnet-20241022-v2:0
-BEDROCK_REGION = us-east-1
-RIOT_API_KEY = RGAPI-7587e3e3-7f8a-4ea9-918c-06134c959d5b
+AWS_ACCESS_KEY_ID=your_aws_access_key_here
+AWS_SECRET_ACCESS_KEY=your_aws_secret_key_here
+AWS_REGION=us-east-1
+S3_DATASET_BUCKET=rift-rewind-dataset
+S3_SUMMARIES_BUCKET=rift-rewind-summaries
+BEDROCK_MODEL_ID=us.anthropic.claude-3-5-sonnet-20241022-v2:0
+BEDROCK_REGION=us-east-1
+RIOT_API_KEY=your_riot_api_key_here
 ```
 
 ### 6. **Deploy**
