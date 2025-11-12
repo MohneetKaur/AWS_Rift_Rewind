@@ -14,7 +14,13 @@ A comprehensive League of Legends player performance analysis application built 
 
 ## 🚀 Live Demo
 
-**🌐 Public URL**: [Your deployed URL will appear here after deployment]
+## 🚀 Live Demo
+
+**Public URL**: [https://web-avf08mgwx-mohneet-6976s-projects.vercel.app](https://web-avf08mgwx-mohneet-6976s-projects.vercel.app)
+
+> 🎮 Try searching for "Ruler" with tag "KR1" in the Asia region to see a comprehensive analysis!
+
+*Note: If you see "Player not found", the environment variables may still be configuring. Please wait a moment and try again.*
 
 ### Test with Real Data:
 Visit: `/player/wyzXAysX728Q8ecHQ2zJ6gU-LAZohJR-n79hhE4ah8z4yphhQMdGPrWrCkgAZ4u6Tnj6mtFo75MJrw`
